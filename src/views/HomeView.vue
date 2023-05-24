@@ -68,19 +68,19 @@
       <div class="max-w-screen-xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8 lg:py-16">
         <div class="grid grid-cols-1 gap-y-8 lg:grid-cols-2 lg:items-center lg:gap-x-16">
           <div class="mx-auto max-w-lg text-center lg:mx-0 ltr:lg:text-left rtl:lg:text-right">
-            <h2 class="text-3xl font-bold sm:text-4xl">Find your career path</h2>
+            <h2 class="text-3xl font-bold sm:text-4xl">En que consiste nuestro programa</h2>
 
             <p class="mt-4 text-gray-600">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut vero aliquid sint
-              distinctio iure ipsum cupiditate? Quis, odit assumenda? Deleniti quasi inventore,
-              libero reiciendis minima aliquid tempora. Obcaecati, autem.
+              Además de poseer un calendario donde el trabajador podra ver de forma personal sus dias libres,también podrá gestionar su propia agenda laboral(vacaciones,permisos,baja laboral...).
+              Tambien dispone de una pagina donde puede ver en forma de grafico el calendario.
+              Una manera de disponer desde la misma pagina de toda la información que el trabajador necesita.
             </p>
 
             <a
               href="#"
               class="mt-8 inline-block rounded bg-indigo-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-indigo-700 focus:outline-none focus:ring focus:ring-yellow-400"
             >
-              Get Started Today
+              Empieza ya
             </a>
           </div>
 
@@ -110,10 +110,10 @@
                 </svg>
               </span>
 
-              <h2 class="mt-2 font-bold">Accountant</h2>
+              <h2 class="mt-2 font-bold">Sencillo</h2>
 
               <p class="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
-                Lorem ipsum dolor sit amet consectetur.
+                Facil de aprender
               </p>
             </a>
 
@@ -142,10 +142,10 @@
                 </svg>
               </span>
 
-              <h2 class="mt-2 font-bold">Accountant</h2>
+              <h2 class="mt-2 font-bold">Rápido</h2>
 
               <p class="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
-                Lorem ipsum dolor sit amet consectetur.
+                Informacion con un solo click
               </p>
             </a>
 
@@ -174,10 +174,10 @@
                 </svg>
               </span>
 
-              <h2 class="mt-2 font-bold">Accountant</h2>
+              <h2 class="mt-2 font-bold">Agil</h2>
 
               <p class="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
-                Lorem ipsum dolor sit amet consectetur.
+                De facil uso
               </p>
             </a>
 
@@ -206,10 +206,10 @@
                 </svg>
               </span>
 
-              <h2 class="mt-2 font-bold">Accountant</h2>
+              <h2 class="mt-2 font-bold">Busqueda</h2>
 
               <p class="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
-                Lorem ipsum dolor sit amet consectetur.
+                Busqueda de tareas especificas en la agenda
               </p>
             </a>
 
@@ -238,10 +238,10 @@
                 </svg>
               </span>
 
-              <h2 class="mt-2 font-bold">Accountant</h2>
+              <h2 class="mt-2 font-bold">Informes</h2>
 
               <p class="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
-                Lorem ipsum dolor sit amet consectetur.
+                Permite la obtención de informes para entender mejor la agenda el empleado.
               </p>
             </a>
 
@@ -270,10 +270,10 @@
                 </svg>
               </span>
 
-              <h2 class="mt-2 font-bold">Accountant</h2>
+              <h2 class="mt-2 font-bold">Seguridad</h2>
 
               <p class="hidden sm:mt-1 sm:block sm:text-sm sm:text-gray-600">
-                Lorem ipsum dolor sit amet consectetur.
+                Importante proteger la información del empleado.
               </p>
             </a>
           </div>
